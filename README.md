@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Alan Hernández (@voltek)
+# 👋 Hi, I'm Alan Hernández (@Voltek)
 
 **Senior Android Developer** with 10+ years of experience,
 based in Mexico City 🇲🇽.
@@ -19,5 +19,5 @@ Apps with real user impact, thoughtful design,
 and solid modern Android architecture.
 
 ## 📫 Reach me
-- LinkedIn: https://www.linkedin.com/in/alan-manuel-hernandez-alvarez
+- LinkedIn: https://www.linkedin.com/in/alan-hernandez-voltek/
 - Email: involting@gmail.com
