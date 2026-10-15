@@ -9,10 +9,11 @@ based in Mexico City 🇲🇽.
 - **Testing:** JUnit4 · MockK · Turbine · MockWebServer
 - **Tools:** Git · Bitrise · CI/CD · Android Studio
 
-## 🌱 Currently exploring
-- AI integration in Android: Gemini API · OpenAI API · Anthropic API
-- On-device inference with LiteRT-LM
-- Agentic development tools inside Android Studio
+## 🌱 Currently
+- Building **GameStack** — an Android app developed entirely with AI agents (mainly Claude Code),
+  governed by CLAUDE.md, Skills, ADRs and a CI gate
+- Studying AI-assisted development: context engineering, spec-driven development, agent harnesses
+- Next on my roadmap: AI APIs in Android apps and on-device inference
 
 ## 💞️ Open to collaborate on
 Apps with real user impact, thoughtful design,
